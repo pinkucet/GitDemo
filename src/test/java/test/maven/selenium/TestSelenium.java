@@ -12,6 +12,9 @@ public class TestSelenium {
 	@Test
 	public void testSeleniumMethod2() {
 		System.out.println("I am Second selenium Method");
+		//updated by gitdemo
+		
+		System.out.println("updated by git demo");
 	}
 
 }
