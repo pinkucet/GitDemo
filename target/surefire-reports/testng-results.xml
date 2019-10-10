@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="546" started-at="2019-09-02T20:28:08 CAT" finished-at="2019-09-02T20:28:08 CAT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="546" started-at="2019-09-02T20:28:08 CAT" finished-at="2019-09-02T20:28:08 CAT">
+      <class name="test.maven.selenium.ApiTest">
+        <test-method status="PASS" signature="testApiMethod1()[pri:0, instance:test.maven.selenium.ApiTest@146ba0ac]" name="testApiMethod1" duration-ms="1" started-at="2019-09-02T20:28:08 CAT" finished-at="2019-09-02T20:28:08 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApiMethod1 -->
+        <test-method status="PASS" signature="testApiMethod2()[pri:0, instance:test.maven.selenium.ApiTest@146ba0ac]" name="testApiMethod2" duration-ms="0" started-at="2019-09-02T20:28:08 CAT" finished-at="2019-09-02T20:28:08 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApiMethod2 -->
+      </class> <!-- test.maven.selenium.ApiTest -->
+      <class name="test.maven.selenium.TestSelenium">
+        <test-method status="PASS" signature="testSeleniumMethod1()[pri:0, instance:test.maven.selenium.TestSelenium@4dfa3a9d]" name="testSeleniumMethod1" duration-ms="0" started-at="2019-09-02T20:28:08 CAT" finished-at="2019-09-02T20:28:08 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSeleniumMethod1 -->
+        <test-method status="PASS" signature="testSeleniumMethod2()[pri:0, instance:test.maven.selenium.TestSelenium@4dfa3a9d]" name="testSeleniumMethod2" duration-ms="0" started-at="2019-09-02T20:28:08 CAT" finished-at="2019-09-02T20:28:08 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSeleniumMethod2 -->
+      </class> <!-- test.maven.selenium.TestSelenium -->
+      <class name="test.maven.selenium.PracticeTest">
+        <test-method status="PASS" signature="testPracticeMethod1()[pri:0, instance:test.maven.selenium.PracticeTest@754ba872]" name="testPracticeMethod1" duration-ms="7" started-at="2019-09-02T20:28:08 CAT" finished-at="2019-09-02T20:28:08 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPracticeMethod1 -->
+        <test-method status="PASS" signature="testPracticeMethod2()[pri:0, instance:test.maven.selenium.PracticeTest@754ba872]" name="testPracticeMethod2" duration-ms="0" started-at="2019-09-02T20:28:08 CAT" finished-at="2019-09-02T20:28:08 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPracticeMethod2 -->
+      </class> <!-- test.maven.selenium.PracticeTest -->
+      <class name="test.maven.selenium.ExcelDataExtractTest">
+        <test-method status="PASS" signature="getData()[pri:0, instance:test.maven.selenium.ExcelDataExtractTest@6eebc39e]" name="getData" duration-ms="491" started-at="2019-09-02T20:28:08 CAT" finished-at="2019-09-02T20:28:08 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+      </class> <!-- test.maven.selenium.ExcelDataExtractTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
