@@ -14,5 +14,8 @@ public class ApiTest {
 	public void testApiMethod2() {
 		System.out.println("I am Second Api Method");
 		System.out.println("I am Second Api Method");
+		
+		//updated by gitdemo
+		System.out.println("Updated by git demo");
 	}
 }
